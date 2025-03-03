@@ -1,0 +1,9 @@
+{
+"apkFileName":"rp_mini_release_β1.14-2025-0228-1732.apk",
+"versionCode":"14",
+"versionInfoEn":"1. Resolve the issue where the game cannot be scanned in some system languages. \n2. Add Android applications. \n3. Add button sound effects. \n4. Add a copy and paste operation for startup configuration. \n5. Add the first letter for quick search.",
+"versionInfoZh_Cn":"1、解决在部分系统语言的情况下，无法扫描出游戏的问题。\n2、添加安卓应用。\n3、添加按键音效。\n4、添加启动配置复制粘贴操作。\n5、添加首字母快速查找。",
+"versionInfoZh_Tw":"1、解决在部分系統語言的情况下，無法掃描出遊戲的問題。 \n2、添加安卓應用。 \n3、添加按鍵音效。 \n4、添加啟動配寘複製粘貼操作。 \n5、添加首字母快速查找。",
+"versionInfoJa":"1、一部のシステム言語の場合、ゲームをスキャンできない問題を解決する。 n 2、Androidアプリケーションを追加します。 n 3、キーサウンドを追加します。 n 4、起動構成のコピー貼り付け操作を追加します。 n 5、頭文字を追加してすばやく検索します。",
+"versionInfoKo":"1. 일부 시스템 언어의 경우 게임을 스캔할 수 없는 문제를 해결합니다.\n2、안드로이드 앱을 추가합니다.\n3, 키 사운드를 추가합니다.\n4, 시작 구성 복사 붙여넣기 작업을 추가합니다.\n5, 빠른 검색을 위한 이니셜을 추가합니다."
+}
