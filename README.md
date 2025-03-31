@@ -1,22 +1,30 @@
+@[TOC](Retroid Launcher Guide)
+# Platform
 
-![image](https://github.com/user-attachments/assets/b78a7e77-d742-4237-a409-5d605b7de910)
+A game platform is a game library, and games on the same platform should have similarities, such as using the same emulator or core, and having the same thumbnail size. A platform can add multiple game directories.
 
-![437cfe5d460915bf0e49d856ea84612](https://github.com/user-attachments/assets/92d06287-77f5-4ec7-9e2a-e53aba5e1949)
+## Edit Platform
+### Import
+- **Import resource package:** Due to copyright reasons, the official cannot proactively provide resource packages to users. However, the official plan is to add a resource export feature that allows users to export their current platform resources as resource packs with just one click. In this way, users can import resource packages into other handheld devices that have installed Retroid Launcher.
+- **Import Pegasus resource:** Support importing Pegasus G resource format.
+> Video link:[here](https://www.bilibili.com/video/BV1q1F6eeE9m/?spm_id_from=333.1387.upload.video_card.click&vd_source=e08670fc26c5889e3c2a3675dd9f8486)
+> Resource link:[here](https://pan.baidu.com/s/1WoE_PjvnS0KOhQs-z3Zmrw?pwd=yuzu).
+> Unzip password:跳坑者联盟
+### Config
+Configuration for launching games
+- **Click the "New" button to customize the configuration for users.**
+![Create LauncherConfiguration](https://i-blog.csdnimg.cn/direct/50960b0b700645bc9df38e032ebcb18b.png)
+We can copy other configurations to the configuration that needs to be created.
+![Copy configuration from clipboard](https://i-blog.csdnimg.cn/direct/4b849b5b89774a73a2f64ae66b067336.png)
+Click to save.
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/53e599c4e0f24335a7a09eeab99c14e2.png)
+- **Change RetroArch core.**
+Please go to the General Settings ->RetroArch ->Core List interface, select the core name you want to change, and click Copy to clipboard.
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/701808daa2764c96822ebcee96ca5470.png)
+Replace the text in the red box with the just copied text
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9d2a9816abff432680bf52cd65ba3edb.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/1bbaa3a695144f0183c0989ed59df1ae.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2e265739accb4797a9d073bd394399a0.png)
+Click to save.
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/585f42fc22a740f1a9865b605dbbd91a.png)
 
-![252d0a44f972698cee257898b183b14](https://github.com/user-attachments/assets/fcd95d89-e1fe-43f2-a41c-a903b458b799)
-
-![7323b2e05cd04e5027ae208f7c53f38](https://github.com/user-attachments/assets/8cb94896-fc5d-48ad-94af-f8d267238a9a)
-
-![1580852c0fe9ec8e5ffdf97cfc75648](https://github.com/user-attachments/assets/358c6f75-d648-4065-86d3-b1055ffbda6c)
-
-![bca3442a728c2aea14c7cfa5f1c43e1](https://github.com/user-attachments/assets/ead8e9ea-465f-45bd-8740-eaf6763f787d)
-
-![d4c75082a867ad79bc9fb9465baaa81](https://github.com/user-attachments/assets/2f74500f-dacc-4f47-acf0-220849179a9c)
-
-![4e004e88307bca44990f9caee04974d](https://github.com/user-attachments/assets/9b6444ce-a01a-46bf-98d7-33b664374ef5)
-
-![image](https://github.com/user-attachments/assets/b5983e35-8fb6-490d-aed5-25e8bc95ff8d)
-
-![48022b08a74653d84fa95d471de50e7](https://github.com/user-attachments/assets/70197346-91af-412d-ae6f-f6a7515545e2)
-
-![b13517343ff8afce3dcf2ebe2e3f1b6](https://github.com/user-attachments/assets/40c3c727-9b76-4094-ab60-f619c44f5a38)
