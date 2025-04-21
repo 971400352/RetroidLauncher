@@ -1,0 +1,9 @@
+{
+"apkFileName":"rp4_release_β1.15-2025-0421-0954.apk",
+"versionCode":"15",
+"versionInfoEn":"1. Add the function of creating a platform. \n2. The game list can display logo icons. \n3. UI modification.",
+"versionInfoZh_Cn":"1、添加创建平台的功能。\n2、游戏列表可显示Logo图标。\n3、UI修改。",
+"versionInfoZh_Tw":"1、添加創建平臺的功能。 \n2、遊戲清單可顯示Logo圖標。 \n3、UI修改。",
+"versionInfoJa":"1、プラットフォームを作成する機能を追加する。 \n2、ゲームリストはLogoアイコンを表示できます。 \n3、UI修正。",
+"versionInfoKo":"1. 플랫폼을 만드는 기능을 추가합니다. \n2, 게임 목록에 로고 아이콘을 표시할 수 있습니다. \n3, UI 수정"
+}
