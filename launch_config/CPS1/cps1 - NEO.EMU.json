@@ -1,0 +1,1 @@
+{"name":"cps1 - NEO.EMU","description":"Supported extensions: zip.","acceptedFilenameRegex":"^(.*)\\.(?:zip)$","platform":"CP System I","packageName":"com.explusalpha.neoemu","activityName":"com.imagine.BaseActivity","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.path}"}

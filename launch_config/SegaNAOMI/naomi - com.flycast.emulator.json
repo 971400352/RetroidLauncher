@@ -1,0 +1,1 @@
+{"name":"naomi - com.flycast.emulator","description":"Supported extensions: 7z, lst, zip.","acceptedFilenameRegex":"^(.*)\\.(?:7z|lst|zip|dat)$","platform":"Sega Naomi","packageName":"com.flycast.emulator","activityName":"com.flycast.emulator.MainActivity","action":"android.intent.action.VIEW","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.uri}"}

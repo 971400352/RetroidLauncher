@@ -1,0 +1,1 @@
+{"name":"saturn - Saturn.EMU","description":"Supported extensions: ccd, chd, cue, m3u, toc.","acceptedFilenameRegex":"^(.*)\\.(?:ccd|chd|cue|m3u|toc)$","platform":"Sega Saturn","packageName":"com.explusalpha.SaturnEmu","activityName":"com.imagine.BaseActivity","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.path}"}

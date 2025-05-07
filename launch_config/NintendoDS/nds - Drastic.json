@@ -1,0 +1,1 @@
+{"name":"nds - Drastic","description":"Supported extensions: bin, nds, rar, zip, 7z.","acceptedFilenameRegex":"^(.*)\\.(?:bin|nds|rar|zip|7z)$","platform":"Nintendo DS","packageName":"com.dsemu.drastic","activityName":"com.dsemu.drastic.DraSticActivity","flagJsonStr":"[\"activity-clear-task\",\"activity-clear-top\"]","paramJsonStr":"{}","dataFilePathType":"{file.uri}"}

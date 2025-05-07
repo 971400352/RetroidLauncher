@@ -1,0 +1,1 @@
+{"name":"ngpc - NGP.EMU","description":"Supported extensions: zip, ngp, ngc, 7z.","acceptedFilenameRegex":"^(.*)\\.(?:zip|ngp|ngc|7z)$","platform":"NeoGeo Pocket Color","packageName":"com.explusalpha.NgpEmu","activityName":"com.imagine.BaseActivity","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.path}"}

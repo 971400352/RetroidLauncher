@@ -1,0 +1,1 @@
+{"name":"windows - MiceWine","description":"Supported extensions: lnk","acceptedFilenameRegex":"^(.*)\\.(?:lnk)$","platform":"Windows","packageName":"com.micewine.emu","activityName":"com.micewine.emu.activities.MainActivity","flagJsonStr":"[\"activity-clear-task\",\"activity-clear-top\",\"activity-no-history\"]","paramJsonStr":"{\"exePath\":\"{file.path}\"}"}

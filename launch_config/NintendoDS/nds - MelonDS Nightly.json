@@ -1,0 +1,1 @@
+{"name":"nds - MelonDS Nightly","acceptedFilenameRegex":"^(.*).(?:nds|zip|7z)$","platform":"Nintendo DS","packageName":"me.magnum.melonds.nightly","activityName":"me.magnum.melonds.ui.emulator.EmulatorActivity","action":"me.magnum.melonds.nightly.LAUNCH_ROM","flagJsonStr":"[]","paramJsonStr":"{\"uri\":\"{file.uri}\"}"}

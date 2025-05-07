@@ -1,0 +1,1 @@
+{"name":"wiiu - CEMU","acceptedFilenameRegex":"^(.*).(?:wua|wux|rpx)$","platform":"Nintendo Wii U","packageName":"info.cemu.cemu","activityName":"info.cemu.cemu.emulation.EmulationActivity","flagJsonStr":"[\"activity-clear-task\",\"activity-clear-top\"]","paramJsonStr":"{}","dataFilePathType":"{file.uri}"}

@@ -1,0 +1,1 @@
+{"name":"pico8 - Infinity P8 Player","description":"Supported extensions: p8, png.","acceptedFilenameRegex":"^(.*)\\.(?:p8|png)$","platform":"PICO-8","packageName":"me.dt2dev.infinity","activityName":"me.dt2dev.infinity.SchemeActivity","action":"android.intent.action.VIEW","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.uri}"}

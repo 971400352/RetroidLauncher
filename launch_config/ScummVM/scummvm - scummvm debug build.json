@@ -1,0 +1,1 @@
+{"name":"scummvm - scummvm debug build","description":"Supported extensions: dpt","acceptedFilenameRegex":"^(.*)\\.(?:dpt)$","platform":"ScummVM","packageName":"org.scummvm.scummvm.debug","activityName":"org.scummvm.scummvm.SplashActivity","action":"android.intent.action.MAIN","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{tags.scummvm_id}"}

@@ -1,0 +1,1 @@
+{"name":"gbc - Pizza Boy C Pro","description":"Supported extensions: gb, gbc, gbs, zip, 7z.","acceptedFilenameRegex":"^(.*)\\.(?:gb|gbc|gbs|zip|7z)$","platform":"Game Boy Color","packageName":"it.dbtecno.pizzaboypro","activityName":"it.dbtecno.pizzaboypro.MainActivity","flagJsonStr":"[\"activity-clear-task\",\"activity-clear-top\"]","paramJsonStr":"{\"rom_uri\":\"{file.path}\"}"}

@@ -1,0 +1,1 @@
+{"name":"gba - Pizza Boy GBA Basic","description":"Supported extensions: gba, zip, 7z.","acceptedFilenameRegex":"^(.*)\\.(?:bin|gba|zip|7z)$","platform":"Game Boy Advance","packageName":"it.dbtecno.pizzaboygba","activityName":"it.dbtecno.pizzaboygba.MainActivity","flagJsonStr":"[\"activity-clear-task\",\"activity-clear-top\"]","paramJsonStr":"{\"rom_uri\":\"{file.path}\"}"}
