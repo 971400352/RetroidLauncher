@@ -1,0 +1,9 @@
+{
+"apkFileName":"uq865a133_release_β1.16-2025-0530-1807.apk",
+"versionCode":"16",
+"versionInfoEn":"1. Add backup related functions. \n2、 Update the startup configuration for all platforms. \n3、 Add whether to display all platform entrances. \n4、 Replace operation feedback sound effects",
+"versionInfoZh_Cn":"1、添加备份相关功能。\n2、更新所有平台的启动配置。\n3、添加是否显示所有平台的入口。\n4、更换操作反馈音效",
+"versionInfoZh_Tw":"1、添加備份相關功能。 \n2、 更新所有平臺的啟動配寘。 \n3、 添加是否顯示所有平臺的入口。 \n4、 更換操作迴響音效",
+"versionInfoJa":"1. 백업 관련 기능을 추가합니다.\n2、모든 플랫폼의 시작 구성을 업데이트합니다.\n3、모든 플랫폼의 포털을 표시할지 여부를 추가합니다.\n4、작업 피드백 사운드 교체",
+"versionInfoKo":"1、バックアップ関連機能を追加する。\n2、すべてのプラットフォームの起動構成を更新します。\n3、すべてのプラットフォームのポータルを表示するかどうかを追加します。\n4、オペレーションフィードバックサウンドの交換"
+}
