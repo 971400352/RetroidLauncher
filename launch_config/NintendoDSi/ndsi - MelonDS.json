@@ -1,1 +1,1 @@
-{"name":"ndsi - MelonDS","acceptedFilenameRegex":"^(.*).(?:nds|zip|7z)$","platform":"Nintendo DSi","packageName":"me.magnum.melonds","activityName":"me.magnum.melonds.ui.emulator.EmulatorActivity","action":"me.magnum.melonds.LAUNCH_ROM","flagJsonStr":"[]","paramJsonStr":"{\"uri\":\"{file.uri}\"}"}
+{"name":"ndsi - MelonDS","acceptedFilenameRegex":"^(.*).(?:nds|zip|7z)$","platform":"Nintendo DSi","flagJsonStr":"[]","paramJsonStr":"{\"uri\":\"{file.uri}\"}","launcherParams":"-a me.magnum.melonds.LAUNCH_ROM\n-n me.magnum.melonds/.ui.emulator.EmulatorActivity\n-e uri {file.uri}"}

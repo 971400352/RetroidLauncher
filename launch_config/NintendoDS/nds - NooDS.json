@@ -1,1 +1,1 @@
-{"name":"nds - NooDS","acceptedFilenameRegex":"^(.*).(?:nds)$","platform":"Nintendo DS","packageName":"com.hydra.noods","activityName":"com.hydra.noods.FileBrowser","flagJsonStr":"[]","paramJsonStr":"{\"LaunchPath\":\"{file.path}\"}"}
+{"name":"nds - NooDS","acceptedFilenameRegex":"^(.*).(?:nds)$","platform":"Nintendo DS","flagJsonStr":"[]","paramJsonStr":"{\"LaunchPath\":\"{file.path}\"}","launcherParams":"-n com.hydra.noods/.FileBrowser\n -e LaunchPath {file.path}"}
