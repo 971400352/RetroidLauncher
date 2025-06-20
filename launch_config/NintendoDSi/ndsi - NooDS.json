@@ -1,1 +1,1 @@
-{"name":"ndsi - NooDS","acceptedFilenameRegex":"^(.*).(?:nds)$","platform":"Nintendo DSi","flagJsonStr":"[]","paramJsonStr":"{\"LaunchPath\":\"{file.path}\"}","launcherParams":"-n com.hydra.noods/.FileBrowser\n -e LaunchPath {file.path}"}
+{"name":"ndsi - NooDS","acceptedFilenameRegex":"^(.*).(?:nds)$","platform":"Nintendo DSi","packageName":"com.hydra.noods","activityName":"com.hydra.noods.FileBrowser","flagJsonStr":"[]","paramJsonStr":"{\"LaunchPath\":\"{file.path}\"}","isKillApp":"false","launcherParams":"-n com.hydra.noods/.FileBrowser\n -e LaunchPath {file.path}"}
