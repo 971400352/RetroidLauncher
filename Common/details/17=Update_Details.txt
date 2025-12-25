@@ -1,0 +1,9 @@
+{
+"apkFileName":"uq865a133_release_β1.17-2025-1225-1012.apk",
+"versionCode":"17",
+"versionInfoEn":"1. Fix known issues. \n2、 Launch emulator logic optimization.",
+"versionInfoZh_Cn":"1、修复已知的问题。\n2、启动模拟器逻辑优化。",
+"versionInfoZh_Tw":"1、修復已知的問題。\n2、啟動模擬器邏輯優化。",
+"versionInfoJa":"1. 알려진 문제를 해결합니다.\n2、에뮬레이터 논리 최적화를 시작합니다.",
+"versionInfoKo":"1、既知の問題を修正する。\n2、シミュレータの論理最適化を開始します。"
+}
