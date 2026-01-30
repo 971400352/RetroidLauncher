@@ -1,0 +1,1 @@
+{"name":"pico8 - PICO-8 Android","description":"Supported extensions: p8, png.","acceptedFilenameRegex":"^(.*)\\.(?:p8|png)$","platform":"PICO-8","packageName":"io.wip.pico8","activityName":"com.godot.game.GodotApp","flagJsonStr":"[]","paramJsonStr":"{}","dataFilePathType":"{file.uri}","isKillApp":"true","launcherParams":"-n io.wip.pico8/com.godot.game.GodotApp\n -d {file.uri}"}
