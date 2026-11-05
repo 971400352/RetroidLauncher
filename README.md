@@ -1,4 +1,12 @@
 @[TOC](Retroid Launcher Guide)
+# Video Tutorial
+
+For a complete video walkthrough of setting up Retroid Launcher, please watch the guide made by **Joey's Retro Handhelds**:
+
+👉 [Retroid Launcher Setup Guide](https://www.joeysretrohandhelds.com/guides/retroid-launcher-setup-guide/)
+
+Special thanks to Joey for creating this excellent video tutorial! 🙏
+
 # Platform
 
 A game platform is a game library, and games on the same platform should have similarities, such as using the same emulator or core, and having the same thumbnail size. A platform can add multiple game directories.
